@@ -211,10 +211,5 @@ int main()
     Net.feedForword(20,2);
     std::cout << "y_pre:(20,2)" << Net.Out.result << std::endl;
 
-
-
-
-
-    cout << "Hello World!" << endl;
     return 0;
 }
