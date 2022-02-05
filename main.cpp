@@ -29,8 +29,6 @@ public:
     float sigmoid(float z);
     float sigmoid_Div(float z);
     float calculate(float in_1,float in_2);
-    float feedBack_1();
-    float feedBack_2();
 };
 
 
